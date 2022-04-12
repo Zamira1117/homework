@@ -1,0 +1,64 @@
+@media(max-width:1320px){
+    .container{
+        max-width: 1140px;
+    }
+    .right-text2 {
+        font-size: 52px;
+        line-height: 65px;
+        padding-bottom: 15px;
+        width: 380px;
+    }
+    .intro-right {
+        padding: 80px 10px 10px 10px;
+    }
+    .intro4 {
+        padding: 50px 50px 50px;
+    }
+    .intro5-nature {
+        padding-top: 50px;
+        flex-wrap: wrap;
+        row-gap: 20px;
+    }
+    .photo6 {
+        margin-top: 400px
+    }
+    .intro8-photo {
+        flex-wrap: wrap;
+        padding: 50px 0px 50px;
+        row-gap: 20px;
+    }  
+}
+@media(max-width:1140px){
+    .container{
+        max-width: 960px ;
+    }
+    .intro {
+        padding: 22px 0 45px;
+    }
+    .intro-photo {
+        width: 400px;
+        padding-top: 99px;
+    }
+    .intro4-item {
+        row-gap: 80px;
+        column-gap: 90px;
+    } 
+    .intro4-item-card {
+       width: 300px;
+    }
+    .nature-card{
+        width: 200px;
+     }
+}
+@media(max-width:960px){
+    .container{
+        max-width: 720px ;
+    }
+   
+}
+@media(max-width:720px){
+    .container{
+        max-width: 540px ;
+    }
+   
+}
